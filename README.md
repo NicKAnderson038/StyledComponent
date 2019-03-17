@@ -1,0 +1,2 @@
+# StyledComponent
+Created with CodeSandbox
